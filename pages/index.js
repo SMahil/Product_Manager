@@ -14,7 +14,9 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Sukhvir Portfolio</title>
+          <title>
+          👋 I’m Sukhvir Kaur, a Product ​Manager blending technical ​expertise and strategic insight to ​drive innovation and user-centric ​solutions.
+          </title>
         </Head>
         <Container>
           <Intro />
