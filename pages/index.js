@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Annie Apple's Product Portfolio</title>
+          <title>Sukhvir Portfolio</title>
         </Head>
         <Container>
           <Intro />
