@@ -1,17 +1,4 @@
-# Portfolio Website for Product Managers
 
-A template product portfolio for sharing great product stories. You can use this template to create, personalize, and deploy your portfolio onto the internet for FREE. 
-
-Check out a live preview of the template portfolio [here](https://product-porfolio.vercel.app/).
-
-Here's a quick walkthrough of the structure of the portfolio and what you need to modify to make it your own:
-
-[![Watch the video](/public/assets/preview/portfolio_tour.png)](https://www.loom.com/share/1ec2c588d3b24cf7aa0dc467b0fec3df)
-
-
-This template was created in collaboration with [@nicolemors](https://github.com/nicolemors). The template was developed ontop of the [next.js blog template](https://github.com/timlrx/tailwind-nextjs-starter-blog). The structure of project pages was inspired by [Bart Krawczyk's portfolio](https://www.bartkrawczyk.com/portfolio). Creating a template for product managers was inspired by [@manuarora700](https://github.com/manuarora700) and his work on templatizing a [developer portfolio website](https://github.com/manuarora700/simple-developer-portfolio-website). 
-
-![Preview](/public/assets/preview/portfolio_screenshot.png)
 
 # The structure of the portfolio
 
